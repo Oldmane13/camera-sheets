@@ -40,12 +40,6 @@ export default function HomeScreen() {
           </TouchableOpacity>
         </View>
       </ScrollView>
-
-      <View style={styles.tabBarInfoContainer}>
-        <Text style={styles.tabBarInfoText}>
-          To do: Check styles for this tab bar down here v!
-        </Text>
-      </View>
     </View>
   );
 }
